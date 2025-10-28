@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  height: 100%;
+  background-color: #fdfdfd; /* slate-900 como color base, NO azul */
+}
+#root {
+  height: 100%;
+}
